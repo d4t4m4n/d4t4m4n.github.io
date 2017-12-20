@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>The Thing</h1>
+<p>No mind - no worries</p>
+</body>
+</html>
